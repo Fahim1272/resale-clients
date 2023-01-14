@@ -5,6 +5,8 @@ import Blogs from "../Pages/Home/Blogs/Blogs";
 import CategoryCard from "../Pages/Home/CategoryCards/CategoryCard";
 
 import Home from "../Pages/Home/Home/Home";
+import Login from "../Pages/Login/Login";
+import Signup from "../Pages/SignUp/Signup";
 
 export const router = createBrowserRouter([
     {
@@ -28,6 +30,16 @@ export const router = createBrowserRouter([
             {
                 path:"/blogs",
                 element:<Blogs></Blogs>
+               
+            },
+            {
+                path:"/signup",
+                element:<Signup></Signup>
+               
+            },
+            {
+                path:"/login",
+                element:<Login></Login>
                
             },
 
