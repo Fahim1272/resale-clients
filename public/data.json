@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Pulsar",
+        "img": "https://www.puranbike.com/images/users/1592/1538289212_20180912_180120.jpg",
+        "details": "",
+        "_id": "01"
+    },
+    {
+        "name": "Apache",
+        "img": "https://www.puranbike.com/images/users/3585/1565190104_IMG_20190807_210010.jpg",
+        "details": "",
+        "_id": "02"
+    },
+    {
+        "name": "Yamaha",
+        "img": "https://www.puranbike.com/images/users/14352/1617606961_yamaha-mt15-real-image2.jpg",
+        "details": "",
+        "_id": "03"
+    }
+]

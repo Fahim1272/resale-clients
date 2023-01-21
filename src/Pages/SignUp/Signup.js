@@ -89,7 +89,7 @@ const SignUp = () => {
 
                     </div>
                 </form>
-                <p className='p-4'>Already have an account <Link className='text-orange-500 font-bold' to="/login">Login</Link></p>
+                <p className='p-4'>Already have an account?<Link className='text-orange-500 font-bold' to="/login">Login</Link></p>
             </div>
         </div>
     );
